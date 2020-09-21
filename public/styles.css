@@ -1,0 +1,30 @@
+body{
+  background-image: url("https://cool.unc.edu/wp-content/uploads/2016/08/iStock_88579431_LARGE-cropped.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 585px;
+}
+h1{
+  color: black;
+  text-align: center;
+}
+.hold{
+  width: 50%;
+  height: auto;
+  margin-left: 40%;
+  padding-top: 1%;
+  padding-bottom: 2%;
+  margin-top: 5%;
+  background-color:white;
+}
+.strike {
+  text-decoration: line-through;
+}
+li, form{
+  margin-left: 38%;
+}
+h2{
+  font-size: 18px;
+  margin-left: 42%;
+
+}
